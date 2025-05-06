@@ -1,4 +1,4 @@
-# Canopus Yocto compiles the container
+# Canopus Yocto image container compilation
 
 ## Overview
 This repository is used to maintain the docker container responsible for compiling the Yocto image for the Canopus board. Also included scripts to download all the repositories and do the initial configuration for Bitbake
