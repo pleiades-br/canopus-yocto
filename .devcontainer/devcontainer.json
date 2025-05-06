@@ -8,7 +8,7 @@
 	},
 
 	"mounts": [
-		"source=arcturus-bashhistory,target=/commandhistory,type=volume"
+		"source=canopus-bashhistory,target=/commandhistory,type=volume"
 	]
 
 	
